@@ -1,0 +1,84 @@
+1. completable future to invoke rest point 
+	sync, async 
+	POST, (Put) 
+
+2. Reactive programming 
+3. java 8 or earlier -> java 11 
+4. Date API 
+5. Flight Recorder -> performance 
+
+
+
+
+
+java 8 or older 
+com
+	companyname 
+		bean
+			bean1 
+
+			.. 
+		connection 
+		dao 
+			secret 
+				mywayofwriting
+		serivces 
+		resources 
+	vendor 
+		commons 
+		io 
+
+javac -d . *.java 
+
+
+
+import java.*; 
+import java.io.*; 
+import mypackage.subpackage.*; 
+import mypackage.subpackage.subsubpackage.*; 
+
+
+--------------------------------------------------------
+	com.training.travel.book; 
+		TravelCommission  tc = new TravelCommission(); 
+	com.training.travel.book.commision; 
+		TravelCommission 
+		
+
+module-info.java	
+	exports com.training.travel.book 
+	exports com.training.travel.book.commission ;
+--------------------------------------------------------
+
+client 
+requires com.training.travel.book; 
+requires com.training.travel.book.commission ;	
+
+BookingService bs  = new BookingService(); 
+TravelCommission tc = new TravelCommission(); (valid_) 
+
+
+
+
+https://docs.oracle.com/en/java/javase/11/migrate/index.html#JSMIG-GUID-75EAB2F0-2117-421F-A3F6-4C43C564F625
+
+
+
+https://gunnarmorling.github.io/jdk-api-diff/jdk10-jdk11-api-diff.html
+
+
+
+
+
+
+
+
+I
+
+
+
+
+
+
+
+

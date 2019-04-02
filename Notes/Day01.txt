@@ -1,0 +1,98 @@
+https://bit.ly/2FLfpjV
+
+
+import java.util.*
+import java.*; 
+
+import sun.corba.*; 
+
+
+
+class MyBusiness{
+	public Emp myJob(){
+		// 
+		PreparedStatement ps = conn.getPreparedState(... ); 
+
+
+		return emp; 
+
+	}
+}
+
+
+http://openjdk.java.net/projects/jigsaw/doc/jdk-modularization.html
+
+
+JAVA_HOME=/Library/Java/JavaVirtualMachines/contents/javaversion/Home
+
+path:$JAVA_HOME:/bin:/sbin/
+
+
+List<Map<Object>>
+
+
+
+
+
+public interface Function<T, R> {
+
+
+    R apply(T t);
+
+
+}
+
+
+
+(string) -> {return "Hello " + string;};
+
+
+
+display(String s){}
+display(String s, String ss){}
+display(String ... s){}
+
+
+display("Hello");
+
+
+
+jagannath8715@gmail.com
+
+
+
+
+
+
+
+main(){
+Thread t1 = new Thread(new SomeClass()); 
+Thread t2 = new Thread(new SomeClass()); 
+Thread t3 = new Thread(new SomeClass()); 
+Thread t4 = new Thread(new SomeClass()); 
+Thread t5 = new Thread(new SomeClass()); 
+
+System.out.println("bye"); 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
